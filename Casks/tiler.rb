@@ -1,11 +1,11 @@
 cask "tiler" do
-  version "0.3.0"
-  sha256 "8f9f449df9b3a0b12868d9226b79c15b4382ee8236fbba1fcb5cdea5994ef69a"
+  version "0.3.1"
+  sha256 "705050f7885176126ebd395c9f94fd8eb4655dde7dafd56fb1e317e260a65045"
 
-  url "https://github.com/VlatkoMilisav/Tiler/releases/download/v#{version}/Tiler-#{version}.zip"
+  url "https://github.com/VlatkoMilisav/Tiler/releases/download/v#{version}/Tiler.zip"
   name "Tiler"
   desc "Snap windows to a grid by drawing on an overlay"
-  homepage "https://github.com/VlatkoMilisav/Tiler"
+  homepage "https://vlatkomilisav.github.io/Tiler/"
 
   app "Tiler.app"
 
